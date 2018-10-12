@@ -1,0 +1,46 @@
+Number,Name_of_president,Party,Undergrad_institution,Graduate_institution,Graduate_degree,years_as_president
+1,George Washington,None,Did not attend college,Didn't attend Grad,,8.0
+2,John Adams,Federalist,Harvard University,Didn't attend Grad,,4.0
+3,Thomas Jefferson,Democratic- Republican,The College of William and Mary,Didn't attend Grad,,8.0
+4,James Madison,Democratic- Republican,Princeton University,Didn't attend Grad,,8.0
+5,James Monroe,Democratic- Republican,The College of William and Mary (did not graduate),Didn't attend Grad,,8.0
+6,John Quincy Adams,National- Republican,Leiden University (transferred)Harvard University,Didn't attend Grad,,4.0
+7,Andrew Jackson,Democrat,Didn't attend college,Didn't attend Grad,,8.0
+8,Martin Van Buren,Democrat,Didn't attend college,Didn't attend Grad,,4.0
+9,William H. Harrison,Whig,Hampden–Sydney College (withdrew),University of Pennsylvania School of Medicine (withdrew),,0.08
+10,John Tyler,Whig,The College of William and Mary,Didn't attend Grad,,4.0
+11,James K. Polk,Democrat,University of North Carolina at Chapel Hill,Didn't attend Grad,,4.0
+12,Zachary Taylor,Whig,Didn't attend college,Didn't attend Grad,,1.0
+13,Millard Fillmore,Whig,Didn't attend college,Didn't attend Grad,,3.0
+14,Franklin Pierce,Democrat,Bowdoin College,Northampton Law School,,4.0
+15,James Buchanan,Democrat,Dickinson College,Didn't attend Grad,,4.0
+16,Abraham Lincoln,National Union(Republican),Didn't attend college,Didn't attend Grad,,4.0
+17,Andrew Johnson,National Union(Democrat),Didn't attend college,Didn't attend Grad,,4.0
+18,Ulysses S. Grant,Republican,United States Military Academy,Didn't attend Grad,,8.0
+19,Rutherford B. Hayes,Republican,Kenyon College,Harvard Law School,,4.0
+20,James A. Garfield,Republican,Hiram College (transferred)Williams College,Didn't attend Grad,,0.5
+21,Chester A. Arthur,Republican,Union College,State and National Law School (did not graduate),,4.0
+22,Grover Cleveland,Democrat,Didn't attend college,Didn't attend Grad,,4.0
+23,Benjamin Harrison,Republican,Miami University,Didn't attend Grad,,4.0
+24,Grover Cleveland,Democrat,,,,4.0
+25,William McKinley,Republican,Allegheny College (withdrew)Mount Union College (withdrew),Albany Law School (withdrew),,4.0
+26,Theodore Roosevelt,Republican,Harvard University,"Columbia Law School (withdrew) (awarded J.D. in 2008, class of 1882)",,8.0
+27,William Howard Taft,Republican,Yale University,University of Cincinnati College of Law,,4.0
+28,Woodrow Wilson,Democrat,Davidson College (transferred)Princeton University,University of Virginia School of Law (withdrew)Johns Hopkins University (Ph.D.),Ph.D.,8.0
+29,Warren G. Harding,Republican,Ohio Central College,Didn't attend Grad,,2.0
+30,Calvin Coolidge,Republican,Amherst College,Didn't attend Grad,,6.0
+31,Herbert Hoover,Republican,Stanford University,Didn't attend Grad,,4.0
+32,Franklin D. Roosevelt,Democrat,Harvard University,"Columbia Law School (withdrew) (awarded J.D. in 2008, class of 1907)",,12.0
+33,Harry S. Truman,Democrat,Spalding's Commercial College (withdrew),University of Kansas City School of Law (withdrew),,8.0
+34,Dwight D. Eisenhower,Republican,U.S. Military Academy (West Point),United States Army Command and General Staff CollegeUnited States Army Industrial CollegeUnited States Army War College,,8.0
+35,John F. Kennedy,Democrat,London School of Economics (General Course Program)Princeton University (transferred)Harvard University,Stanford Graduate School of Business (auditor),,2.0
+36,Lyndon B. Johnson,Democrat,Southwest Texas State College (now Texas State University),Georgetown University Law Center (withdrew),,6.0
+37,Richard M. Nixon,Republican,Whittier College,Duke University School of Law,JD,5.0
+38,Gerald R. Ford,Republican,University of Michigan,Yale Law School,JD,3.0
+39,James Earl Carter,Democrat,Georgia Southwestern College (transferred)Georgia Institute of Technology (transferred)U.S. Naval Academy,Union College (Postgraduate Nuclear Physics Course Program),,4.0
+40,Ronald Reagan,Republican,Eureka College,Didn't attend Grad,,8.0
+41,George H.W. Bush,Republican,Yale University,Didn't attend Grad,,4.0
+42,William J. Clinton,Democrat,Georgetown University,University of Oxford (Rhodes Scholar; withdrew)Yale Law School,JD,8.0
+43,George W. Bush,Republican,Yale University,Harvard Business School,MBA,8.0
+44,Barack H. Obama,Democrat,Occidental College (transferred)Columbia University,Harvard Law School,JD,8.0
+45,Donald J. Trump,Republican,Fordham University (transferred)Wharton School of the University of Pennsylvania,None,,1.67

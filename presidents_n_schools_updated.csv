@@ -1,0 +1,46 @@
+Number,Name_of_president,years_as_president,Party,Profession,Undergrad_institution,Graduate_institution,Graduate_degree
+1,George Washington,8,None,General of the Army,Didn't attend college,Didn't attend Grad,
+2,John Adams,4,Federalist,Politician,Harvard University,Didn't attend Grad,MA
+3,Thomas Jefferson,8,Democratic- Republican,Lawyer,The College of William and Mary,Didn't attend Grad,
+4,James Madison,8,Democratic- Republican,Lawyer,Princeton University,Didn't attend Grad,
+5,James Monroe,8,Democratic- Republican,Politician,Withdrew,Didn't attend Grad,
+6,John Quincy Adams,4,National- Republican,Lawyer,Harvard University,Didn't attend Grad,MA
+7,Andrew Jackson,8,Democrat,Major General,Didn't attend college,Didn't attend Grad,
+8,Martin Van Buren,4,Democrat,Lawyer,Didn't attend college,Didn't attend Grad,
+9,William H. Harrison,0.08,Whig,Major General,Withdrew,Withdrew-Medicine,
+10,John Tyler,4,Whig,Lawyer,The College of William and Mary,Didn't attend Grad,
+11,James K. Polk,4,Democrat,Lawyer,University of North Carolina at Chapel Hill,Didn't attend Grad,
+12,Zachary Taylor,1,Whig,Major General,Didn't attend college,Didn't attend Grad,
+13,Millard Fillmore,3,Whig,Lawyer,Didn't attend college,Didn't attend Grad,
+14,Franklin Pierce,4,Democrat,Lawyer,Bowdoin College,Northampton Law School,
+15,James Buchanan,4,Democrat,Lawyer,Dickinson College,Didn't attend Grad,
+16,Abraham Lincoln,4,National Union(Republican),Lawyer,Didn't attend college,Didn't attend Grad,
+17,Andrew Johnson,4,National Union(Democrat),Tailor,Didn't attend college,Didn't attend Grad,
+18,Ulysses S. Grant,8,Republican,General of the Army,United States Military Academy,Didn't attend Grad,
+19,Rutherford B. Hayes,4,Republican,Lawyer,Kenyon College,Harvard Law School,LLB
+20,James A. Garfield,0.5,Republican,Lawyer,Williams College,Didn't attend Grad,
+21,Chester A. Arthur,4,Republican,Lawyer,Union College,Withdrew-Law,
+22,Grover Cleveland,4,Democrat,Lawyer,Didn't attend college,Didn't attend Grad,
+23,Benjamin Harrison,4,Republican,Lawyer,Miami University,Didn't attend Grad,
+24,Grover Cleveland,4,Democrat,Lawyer,Didn't attend college,Didn't attend college,
+25,William McKinley,4,Republican,Lawyer,Withdrew,Withdrew-Law,LLB
+26,Theodore Roosevelt,8,Republican,Politician,Harvard University,Withdrew-Law,
+27,William Howard Taft,4,Republican,Lawyer,Yale University,University of Cincinnati College of Law,LLB
+28,Woodrow Wilson,8,Democrat,Politicial Scientist,Princeton University,Johns Hopkins University ,PhD
+29,Warren G. Harding,2,Republican,Politician,Ohio Central College,Didn't attend Grad,
+30,Calvin Coolidge,6,Republican,Lawyer,Amherst College,Didn't attend Grad,
+31,Herbert Hoover,4,Republican,Politician,Stanford University,Didn't attend Grad,
+32,Franklin D. Roosevelt,12,Democrat,Politician,Harvard University,Withdrew-Law,
+33,Harry S. Truman,8,Democrat,Politician,Withdrew,Withdrew-Law,
+34,Dwight D. Eisenhower,8,Republican,General of the Army,U.S. Military Academy (West Point),United States Army War College,
+35,John F. Kennedy,2,Democrat,Politician,Harvard University,Didn't attend Grad,
+36,Lyndon B. Johnson,6,Democrat,Politician, Texas State University,Withdrew-Law,
+37,Richard M. Nixon,5,Republican,Lawyer,Whittier College,Duke University School of Law,JD
+38,Gerald R. Ford,3,Republican,Lawyer,University of Michigan,Yale Law School,JD
+39,James Earl Carter,4,Democrat,Politician,U.S. Naval Academy,Union College ,
+40,Ronald Reagan,8,Republican,Actor,Eureka College,Didn't attend Grad,
+41,George H.W. Bush,4,Republican,Politician,Yale University,Didn't attend Grad,
+42,William J. Clinton,8,Democrat,Lawyer,Georgetown University,Yale Law School,JD
+43,George W. Bush,8,Republican,Businessman,Yale University,Harvard Business School,MBA
+44,Barack H. Obama,8,Democrat,Lawyer,Columbia University,Harvard Law School,JD
+45,Donald J. Trump,1.67,Republican,Businessman,University of Pennsylvania,Didn't attend Grad,
